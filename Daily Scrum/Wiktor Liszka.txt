@@ -1,6 +1,6 @@
 @Tydzieñ 1
 09/05 Wt:	Wczoraj:
-		Dziœ:
+		Dziœ: Wrzuciæ na githuba plan funkcji które chcemy umieœciæ na stronie i rozpocz¹æ naukê HTML (ok. 15-20 pierwszych lekcji).
 		Problemy:
 
 10/05 Œr:	Wczoraj:

@@ -1,0 +1,103 @@
+@Tydzieñ 1
+09/05 Wt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+10/05 Œr:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+11/05 Czw:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+12/05 Pt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+
+@Tydzieñ 2
+15/05 Pon:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+16/05 Wt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+17/05 Œr:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+18/05 Czw:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+19/05 Pt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+@Tydzieñ 3
+22/05 Pon:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+23/05 Wt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+24/05 Œr:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+25/05 Czw:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+26/05 Pt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+
+@Tydzieñ 4
+29/05 Pon:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+30/05 Wt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+31/05 Œr:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+01/06 Czw:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+02/06 Pt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+
+@Tydzieñ 5
+05/06 Pon:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+06/06 Wt:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+07/06 Œr:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+08/06 Czw:	Wczoraj:
+		Dziœ:
+		Problemy:
+
+09/06 Pt:	Wczoraj:
+		Dziœ:
+		Problemy:

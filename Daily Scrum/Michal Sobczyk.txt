@@ -3,9 +3,9 @@
 		Dziœ: Zebranie pomys³ów na dzia³anie strony i wybór najlepszych.
 		Problemy: Ca³kowicie ró¿ne problemy na stronê.
 
-10/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+10/05 Œr:	Wczoraj: Burza mózgów, ostateczne decyzje na temat wygl¹du ca³ego projektu, podzia³ prac i obowi¹zków.
+		Dziœ: Rozpoczêcie nauki HTML.
+		Problemy: - 
 
 11/05 Czw:	Wczoraj:
 		Dziœ:

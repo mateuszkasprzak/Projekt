@@ -1,7 +1,7 @@
 @Tydzieñ 1
-09/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+09/05 Wt:	Wczoraj: Pocz¹tek prac nad projektem
+		Dziœ: Podsumowanie wszystkich pomys³ów na dzia³anie strony i wybranie najlepszych z nich. 
+		Problemy: Nie sprecycowane funkcje  dzia³ania strony.
 
 10/05 Œr:	Wczoraj:
 		Dziœ:

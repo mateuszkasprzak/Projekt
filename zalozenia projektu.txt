@@ -1,0 +1,12 @@
+Strona internetowa dla studentow kierunku AiR na wydziale EAIiIB.
+Plan przewiduje, ze strona bedzie posiadala opcje takie jak:
+	system rejestracji uzytkownikow (profile itp.),
+	modul z najwaznieszymi informacjami, datami kolosow, egzaminow (dostepny tylko dla starostow/administratorow),
+	plan zajec,
+	szczegolowe informacje na temat kazdego z przedmiotow i prowadzacych,
+	materialy pomocnicze (dydaktyczne),
+	forum/czat,
+	wtyczka do facebooka (lub jakies podobne narzedzie, ktore pozwoli na gromadzenie informacji z roznych stron w jednym miejscu),
+	mini WIKI/FAQ,
+	
+	

@@ -7,8 +7,8 @@
 		Dziœ: Kontynuacja nauki HTML.
 		Problemy:
 
-11/05 Czw:	Wczoraj:
-		Dziœ:
+11/05 Czw:	Wczoraj: prawie skoñczony tutorial w3schools.com
+		Dziœ: Kontynuacja nauki na w3schools oraz html exercises
 		Problemy:
 
 12/05 Pt:	Wczoraj:

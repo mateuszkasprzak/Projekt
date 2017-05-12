@@ -11,8 +11,8 @@
 		Dziœ: Kontynuacja nauki na w3schools oraz html exercises
 		Problemy:
 
-12/05 Pt:	Wczoraj:
-		Dziœ:
+12/05 Pt:	Wczoraj: zgodnie z planem + tutoriale html5 thenewboston
+		Dziœ: dalej tutoriale thenewboston i commit z efektów nauki html
 		Problemy:
 
 

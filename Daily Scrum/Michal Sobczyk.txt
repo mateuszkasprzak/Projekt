@@ -11,15 +11,15 @@
 		Dziœ: Kontynuacja nauki HTML.
 		Problemy: -
 
-12/05 Pt:	Wczoraj:
-		Dziœ:
-		Problemy:
+12/05 Pt:	Wczoraj: -
+		Dziœ: -
+		Problemy: Brak czasu
 
 
 @Tydzieñ 2
-15/05 Pon:	Wczoraj:
-		Dziœ:
-		Problemy:
+15/05 Pon:	Wczoraj: Brak czasu 12/05 na prace, kontynuacja nauki html w weekend i robienie przyk³adowej strony.
+		Dziœ: Rozpoczêcie nauki PHP, do postawienia serwera.
+		Problemy: -
 
 16/05 Wt:	Wczoraj:
 		Dziœ:

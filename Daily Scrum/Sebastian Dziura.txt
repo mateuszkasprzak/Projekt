@@ -22,8 +22,8 @@
 		Problemy:   Za ma³o czasu na zrobienie czegoœ wiêcej
 
 16/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:     Stworzenie aplikacji na stronie deweloperskiej facebook'a (uzyskanie ID aplikacji)
+		Problemy: Brak adresu url naszej strony, wiec nie moglem jej po³¹czyæ z aplikacja (na stronie deweloperskiej)
 
 17/05 Œr:	Wczoraj:
 		Dziœ:

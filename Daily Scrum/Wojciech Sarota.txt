@@ -1,26 +1,25 @@
 @Tydzieñ 1
-09/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+09/05 Wt:	Wczoraj: 
+		Dziœ: 
+		Problemy: 
 
-10/05 Œr:	Wczoraj:
-		Dziœ:
-Nauka HTML		Problemy:
+10/05 Œr:	Wczoraj: 
+		Dziœ: 
+		Problemy: 
 
-11/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+11/05 Czw:	Wczoraj: 
+		Dziœ: 
+		Problemy: 
 
-12/05 Pt:	Wczoraj:
-		Dziœ:Nauka CSS
-		Problemy:
+12/05 Pt:	Wczoraj: 
+		Dziœ: 
+		Problemy: 
 
 
 @Tydzieñ 2
 15/05 Pon:	Wczoraj:
 		Dziœ:
-Towrzenie strony 	Problemy:
-
+		Problemy:
 
 16/05 Wt:	Wczoraj:
 		Dziœ:

@@ -21,8 +21,8 @@
 		Dziœ: Zorientowaæ siê w podstawach MySQL itp.
 		Problemy:
 
-16/05 Wt:	Wczoraj:
-		Dziœ:
+16/05 Wt:	Wczoraj: Odpalone mysql na agh.edu.pl, phpMyAdmin.
+		Dziœ: Utworzyc przykladowa baze danych, opracje i zarzadzanie; system uzytkownikow (rejestracja).
 		Problemy:
 
 17/05 Œr:	Wczoraj:

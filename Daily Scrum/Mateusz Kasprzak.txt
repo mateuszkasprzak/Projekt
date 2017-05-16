@@ -3,17 +3,17 @@
 		Dziœ: Podsumowanie wszystkich pomys³ów na dzia³anie strony i wybranie najlepszych z nich. 
 		Problemy: Nie sprecycowane funkcje  dzia³ania strony.
 
-10/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+10/05 Œr:	Wczoraj: Podsumowanie pomys³ów na stronê
+		Dziœ: Pocz¹tek nauki html
+		Problemy: -
 
-11/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+11/05 Czw:	Wczoraj:Nauka html
+		Dziœ:Stworzenie podstawowej strony
+		Problemy: -
 
-12/05 Pt:	Wczoraj:
-		Dziœ:
-		Problemy:
+12/05 Pt:	Wczoraj:Stworzenie postawowej strony
+		Dziœ: Nauka podstaw CSS
+		Problemy: -
 
 
 @Tydzieñ 2

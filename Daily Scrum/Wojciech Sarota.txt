@@ -5,21 +5,22 @@
 
 10/05 Œr:	Wczoraj:
 		Dziœ:
-		Problemy:
+Nauka HTML		Problemy:
 
 11/05 Czw:	Wczoraj:
 		Dziœ:
 		Problemy:
 
 12/05 Pt:	Wczoraj:
-		Dziœ:
+		Dziœ:Nauka CSS
 		Problemy:
 
 
 @Tydzieñ 2
 15/05 Pon:	Wczoraj:
 		Dziœ:
-		Problemy:
+Towrzenie strony 	Problemy:
+
 
 16/05 Wt:	Wczoraj:
 		Dziœ:

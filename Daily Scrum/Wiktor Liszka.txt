@@ -17,8 +17,8 @@
 
 
 @Tydzieñ 2
-15/05 Pon:	Wczoraj:
-		Dziœ:
+15/05 Pon:	Wczoraj: Zgodnie z planem.
+		Dziœ: Zorientowaæ siê w podstawach MySQL itp.
 		Problemy:
 
 16/05 Wt:	Wczoraj:

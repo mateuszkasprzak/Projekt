@@ -1,32 +1,32 @@
 @Tydzieñ 1
 09/05 Wt:	Wczoraj: 
-		Dziœ: 
+		Dziœ: Przeszukiwanie internetu w celu znalezienia materia³ów.
 		Problemy: 
 
-10/05 Œr:	Wczoraj: 
-		Dziœ: 
+10/05 Œr:	Wczoraj: Znalezienie materia³ów do nauki i wstêpne oglêdziny.
+		Dziœ: Nauka HTML.
 		Problemy: 
 
-11/05 Czw:	Wczoraj: 
-		Dziœ: 
+11/05 Czw:	Wczoraj: Podstawy HTML.
+		Dziœ: Nauka css-a.
 		Problemy: 
 
-12/05 Pt:	Wczoraj: 
-		Dziœ: 
-		Problemy: 
+12/05 Pt:	Wczoraj: Podstawy css-a.
+		Dziœ: Próby napisania strony.
+		Problemy:-
 
 
 @Tydzieñ 2
-15/05 Pon:	Wczoraj:
-		Dziœ:
-		Problemy:
+15/05 Pon:	Wczoraj:-
+		Dziœ: Prydzielono nowe zadania, tworzê szkic strony.
+		Problemy: Brak pomys³ów.
 
-16/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+16/05 Wt:	Wczoraj: Wstêpny plan wygl¹du strony.
+		Dziœ: Przenoszenie planów na papier.
+		Problemy: Brak zdnonoœci manualnych.
 
 17/05 Œr:	Wczoraj:
-		Dziœ:
+		Dziœ: 
 		Problemy:
 
 18/05 Czw:	Wczoraj:

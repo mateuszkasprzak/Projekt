@@ -17,13 +17,13 @@
 
 
 @Tydzieñ 2
-15/05 Pon:	Wczoraj:
-		Dziœ:
-		Problemy:
+15/05 Pon:	Wczoraj: -
+		Dziœ: Pocz¹tek nauki PHP. Instalacja programu xampp.
+		Problemy:-
 
-16/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+16/05 Wt:	Wczoraj:Pocz¹tek nauki PHP.
+		Dziœ: Kontynuacja nauki PHP i postawienie serwera. 
+		Problemy: Problemy z internetem, które uniemo¿liwi³y dalsz¹ naukê.
 
 17/05 Œr:	Wczoraj:
 		Dziœ:

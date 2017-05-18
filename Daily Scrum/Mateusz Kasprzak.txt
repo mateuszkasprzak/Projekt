@@ -25,9 +25,9 @@
 		Dziœ: Kontynuacja nauki PHP i postawienie serwera. 
 		Problemy: Problemy z internetem, które uniemo¿liwi³y dalsz¹ naukê.
 
-17/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+17/05 Œr:	Wczoraj: Problemy z internetem.
+		Dziœ: Dokoñczenie nauki PHP.
+		Problemy:-
 
 18/05 Czw:	Wczoraj:
 		Dziœ:

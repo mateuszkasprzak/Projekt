@@ -30,8 +30,9 @@
 		Problemy:  Znalezienie informacji jak po³¹czyæ FB z serwisem internetowym
 
 18/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:      Opcja logowania do konta FB i reszta kodu 
+		Problemy:  Brak mo¿liwoœci testu przez brak serwera i domeny.
+		
 
 19/05 Pt:	Wczoraj:
 		Dziœ:

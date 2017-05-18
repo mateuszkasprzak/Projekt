@@ -26,12 +26,13 @@
 		Problemy: Brak adresu url naszej strony, wiec nie moglem jej po³¹czyæ z aplikacja (na stronie deweloperskiej)
 
 17/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:      Po³¹czenie aplikacji z naszym serwisem (w kodzie naszego serwisu)
+		Problemy:  Znalezienie informacji jak po³¹czyæ FB z serwisem internetowym
 
 18/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:      Opcja logowania do konta FB i reszta kodu 
+		Problemy:  Brak mo¿liwoœci testu przez brak serwera i domeny.
+		
 
 19/05 Pt:	Wczoraj:
 		Dziœ:

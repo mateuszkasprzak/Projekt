@@ -30,11 +30,11 @@
 		Problemy:
 
 18/05 Czw:	Wczoraj: Zastanawiamy sie nad funkcja uzytkownikow (profile, rejestracja).
-		Dziœ: facebookowy plug-in i graficzny plan strony.
+		Dziœ: facebookowe plug-iny i graficzny plan strony.
 		Problemy:
 
-19/05 Pt:	Wczoraj:
-		Dziœ:
+19/05 Pt:	Wczoraj: Nie udalo sie skonczyc planu strony.
+		Dziœ: Linki do zewnetrznych stron (plan zajec, wirtualna uczelnia)
 		Problemy:
 
 @Tydzieñ 3

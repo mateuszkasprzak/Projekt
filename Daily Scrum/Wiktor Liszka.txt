@@ -39,7 +39,7 @@
 
 @Tydzieñ 3
 22/05 Pon:	Wczoraj:
-		Dziœ:
+		Dziœ: Utworzenie tabeli mySQL, zaczac ja wypelniac
 		Problemy:
 
 23/05 Wt:	Wczoraj:

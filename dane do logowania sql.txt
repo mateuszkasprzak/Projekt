@@ -1,0 +1,3 @@
+https: https://mysql.agh.edu.pl/phpMyAdmin/
+login: wliszka
+haslo: FYc3MmSSefkv7CXy

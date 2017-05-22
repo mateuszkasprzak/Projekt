@@ -40,8 +40,8 @@
 
 @Tydzieñ 3
 22/05 Pon:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:   Pobraæ phpmyadmin
+		Problemy:Nie mam pojêcia jak siê tego u¿ywa
 
 23/05 Wt:	Wczoraj:
 		Dziœ:

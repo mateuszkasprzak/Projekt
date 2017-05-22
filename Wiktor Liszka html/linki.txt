@@ -1,5 +1,301 @@
 helpdesk:
 http://help.eaiib.agh.edu.pl/
 
+facebook WRSS:
+https://www.facebook.com/WRSSEAIiIB/?ref=br_rs
+
+plan zajec:
+http://planzajec.eaiib.agh.edu.pl/view/timetable/176	2 semestr
+/177							4 semestr
+/178							6 semestr
+
 faq:
-http://www.samorzad.agh.edu.pl/Wazne-Informacje/FAQ
+zrodlo: http://www.samorzad.agh.edu.pl/Wazne-Informacje/FAQ
+
+Wtorek 15 Kwiecieñ 2014
+ 1. Od kiedy posiadam status studenta? 
+Zgodnie z Ustaw¹ o szkolnictwie wy¿szym status studenta (tym samym prawa i obowi¹zki z niego 
+wynikaj¹ce) nabywa siê w chwili immatrykulacji i z³o¿enia œlubowania. 
+(par. 4 Regulaminu Studiów AGH)
+ 2. Kiedy tracê status studenta? 
+Status studenta wygasa wskutek zakoñczenia studiów lub skreœlenia z listy studentów. Zgodnie z 
+Ustaw¹ o szkolnictwie wy¿szym dat¹ uakoñczenia studiów jest data z³o¿enia egzaminu dyplomowego 
+W przypadku absolwentów studiów pierwszego stopnia zachowuj¹ oni prawa studenta do 31.10 
+roku, w którym ukoñczyli te studia (legitymacja nie jest zabierana przez dziekanat). W przypadku 
+absolwentów studiów drugiego stopnia, jeœli nie obroni¹ oni pracy magisterskiego do 30 wrzeœnia 
+roku, w którym uzyskali absolutorium – s¹ skreœlani z listy studentów.
+(par. 21 Regulaminu Studiów AGH oraz art 190 Ustawy)
+ 3. Kiedy mogê podj¹æ studia podyplomowe? 
+Studia podyplomowe nale¿y traktowaæ jako studia uzupe³niaj¹ce. Mo¿na je podj¹æ dopiero po 
+ukoñczeniu przynajmniej pierwszego stopnia studiów. 
+(§ 5 pkt 1 Reg. Studiów Podyplomowych)
+ 4. Czy uczelnia ma obowi¹zek monitorowania losów absolwentów? 
+Tak. Ustawa o szkolnictwie wy¿szym nak³ada na uczelniê taki obowi¹zek. Na AGH zajmuje siê 
+tym Centrum Karier AGH, które ma obowi¹zek przeprowadziæ ankietê z absolwentami wszystkich 
+kierunków przynajmniej w okresie 3 i 5 lat od ukoñczeniu studiów. Dziêki temu uczelnia mo¿e lepiej 
+dopasowaæ program kszta³cenia do wymagañ rynku pracy. 
+(Art 13a Ustawy)
+ 5. Czy studenci maj¹ wp³yw na losy uczelni? 
+Tak, Ustawa gwarantuje miejsce dla studentów i doktorantów w najwy¿szej w³adzy na uczelni, czyli 
+w Senacie. Ich udzia³ w Senacie nie mo¿e byæ mniejszy ni¿ 20 %, przy czym obie grupy musz¹ byæ 
+reprezentowane przez min. 1 swojego przedstawiciela. 
+(art 61,67,71 Ustawy)
+ 6. Czy wyk³adowca, który osi¹gn¹³ ju¿ wiek emerytalny mo¿e nadal wyk³adaæ? 
+Tak, mimo osi¹gniêcia wieku emerytalnego uczelnia mo¿e go ponownie zatrudniæ na to samo 
+stanowisko. 
+(art 118a Ustawy)
+ 7. Czy wyk³adowca mo¿e pracowaæ na dwóch uczelniach? 
+Dwu- i wiêcej etatowoœæ nauczycieli akademickich, o której by³o w mediach ca³kiem g³oœno kilka 
+lat temu, w œwietle nowej ustawy o szkolnictwie wy¿szymi nie powinna mieæ miejsca. Dziœ rektor 
+musi wyraziæ zgodê na podjêcie przez wyk³adowcê pracy u drugiego pracodawcy. Mo¿e mu równie¿ 
+odmówiæ. Brak zgody rektora na takie dzia³anie jest podstaw¹ do rozwi¹zania umowy z wyk³adowc¹. 
+(Art 129 Ustawy)
+ 8. Punkty ECTS – co to jest?  
+ECTS (ang. European Credit Transfer System, pol. Europejski System Transferu i Akumulacji Punktów) 
+– system punktów zaliczeniowych stosowany w szko³ach wy¿szych. G³ównymi celami systemu jest 
+u³atwienie planowania, zdobywania, oceniania i walidacji kwalifikacji oraz mobilnoœci studentów. 
+W Polsce 1 punkt ECTS odpowiada nak³adowi pracy równemu 25-30 godz. lekcyjnych (45 min.). Za 
+zaliczenie ka¿dego przedmiotu student uzyskuje okreœlon¹ liczbê punktów. Aby ukoñczyæ studia 
+pierwszego stopnia nale¿y zebraæ ich min. 180 (studia licencjackie) lub 210 (studia in¿ynierskie), 
+drugiego stopnia – min. 90 lub 120 (po studiach licencjackich). 
+(Art 2 pkt 18d Ustawy)
+  9. Czy w po³owie studiów mogê zmieniæ uczelniê? 
+Tak, przys³uguje ci takie prawo. Musi siê to jednak odbyæ za zgod¹ dziekana obecnego wydzia³u, jak i 
+dziekana wydzia³u uczelni, na któr¹ zamierzasz siê przenieœæ. 
+(§22 ust. 1-6. Reg. studiów AGH)
+ 10. Czy w czasie urlopu studenckiego (dziekañskiego, na ¿¹danie itd.) zachowuje status studenta? 
+Tak, na czas trwania urlopu studenckiego nadal przys³uguj¹ ci ustawowe zni¿ki. Przys³uguj¹ ci równie¿ 
+uprawnienia do pobierania œwiadczeñ pomocy materialnej. Jednak w przypadku przebywania 
+na urlopie bez podania przyczyny, nie przys³uguje prawo do pobierania stypendium socjalnego. 
+Ponadto, przebywacj¹c na urlopie zdrowotnym nie wolno uczêszczaæ na zajêcia.
+(§20 ust. 8-9. Reg. studiów AGH)
+ 11. Jak zdobyæ stypendium socjalne? Kto ustala wysokoœæ dochodu na osobê w rodzinie? 
+Wysokoœæ dochodu na osobê w rodzinie ustala rektor w porozumieniu z samorz¹dem studenckim 
+(URSS AGH), bior¹c pod uwagê iloœæ œrodków przeznaczonych przez ministerstwo na ten cel oraz 
+minimaln¹ i maksymaln¹ wysokoœæ tej kwoty okreœlon¹ w ustawie o œwiadczeniach rodzinnych 
+(§5 ust. 12. Reg. studiów AGH a ponadto za³¹cznik nr 1 do Zarz¹dzenia Nr 31/2012 Rektora AGH z 
+dnia 01 paŸdziernika 2012 r. §5 ust. 1, 4, 5. §6, §7, §8.)
+ 12. Jak zdobyæ stypendium rektora? 
+Stypendium rektora uzyskuj¹ najlepsi studenci na podstawie œredniej ocen za poprzedni rok 
+akademicki, wybitne osi¹gniêcia sportowe lub artystyczne. To stypendium mo¿na uzyskaæ 
+najwczeœniej po zaliczeniu I roku studiów. Na ka¿dym kierunku, na ka¿dym roku stypendium 
+otrzymaæ mo¿e tylko 10% najlepszych studentów. W zwi¹zku z tym, œrednia ocen potrzebna do 
+otrzymania stypendium nie jest sta³a. Osoby kwalifikuj¹ce siê do grona 10% najlepszych studentów s¹ 
+powiadamiane o koniecznoœci z³o¿enia stosowanego podania poprzez Wirtualny Dziekanat.
+(§23 ust. 2, 3, 4. Reg. studiów AGH a ponadto za³¹cznik nr 1 do Zarz¹dzenia Nr 31/2012 
+Rektora AGH z dnia 01 paŸdziernika 2012 r. §9, §10, )
+ 13. Jak uzyskaæ zapomogê losow¹?  
+Zapomoga jest to jednorazowa pomoc materialna udzielana studentowi, który z przyczyn 
+losowych znalaz³ siê w przejœciowo trudnej sytuacji materialnej. Zapomogê mo¿na otrzymaæ 
+maksymalnie dwa razy w roku akademickim. Aby otrzymaæ zapomogê losow¹ nale¿y z³o¿yæ w 
+dziekanacie odpowiednie podanie, najlepiej wraz z za³¹cznikami dokumentuj¹cymi przyczynê 
+starania siê o zapomogê.
+(za³¹cznik nr 1 do Zarz¹dzenia Nr 31/2012 Rektora AGH z dnia 01 paŸdziernika 2012 r. §9, §10, §5 ust. 
+1, 4, 5.)
+ 14. Nie dosta³em stypendium socjalnego. Czy mogê siê odwo³aæ od decyzji? Jak? 
+Tak, mo¿esz siê odwo³aæ do rektora. Odwo³anie musisz z³o¿yæ do 14 dni od otrzymania decyzji 
+administracyjnej zawieraj¹cej odpowiedŸ na twój wniosek dotycz¹cy stypendium socjalnego. Takie 
+same zasady obowi¹zuj¹ przy odwo³aniu siê od stypendium socjalnego dla osób niepe³nosprawnych 
+oraz zapomogi losowej. 
+(§5 ust. 3. Reg. studiów AGH a ponadto za³¹cznik nr 1 do Zarz¹dzenia Nr 31/2012 Rektora AGH z dnia 
+01 paŸdziernika 2012 r. §5 ust. 5.)
+ 15. Studiujê dwa kierunki, czy mogê pobieraæ stypendia z obu kierunków? 
+Nie, jest to zabronione. Student ma obowi¹zek wskazaæ, z tytu³u którego kierunku bêdzie pobiera³ 
+nale¿ne mu stypendia. Konieczne bêdzie z³o¿enie oœwiadczenia, o nie pobieraniu œwiadczeñ pomocy 
+materialnej na innym kierunku. 
+(za³¹cznik nr 1 do Zarz¹dzenia Nr 31/2012 Rektora AGH z dnia 01 paŸdziernika 2012 r. §14 ust. 6.)
+ 16. Co to jest strajk studencki? 
+Strajk studencki to powstrzymanie siê od uczêszczania na zajêcia z mo¿liwoœci¹ pozostania na uczelni. 
+Strajk taki mo¿e podj¹æ Samorz¹d Studencki, NZS oraz ZSP. Musi on byæ zg³oszony rektorowi oraz poprzedzony 
+rozmowami z w³adzami uczelni. Uczestnictwo w strajku nie jest naruszeniem obowi¹zków studenta. 
+(Dziennik Ustaw z 2005 r. Nr 164, poz. 1365)
+ 17. Czy policja mo¿e wejœæ na teren miasteczka studenckiego? 
+S³u¿by bezpieczeñstwa mog¹ wejœæ na teren miasteczka studenckiego (uczelni) tylko za zgod¹ 
+Rektora oraz w uzasadnionych przypadkach, gdy istnieje zagro¿enie ¿ycia ludzkiego, klêski 
+¿ywio³owej lub uzasadnione podejrzenie posiadania narkotyków. Inne sytuacje okreœla porozumienie 
+rektora z s³u¿bami bezpieczeñstwa. Rozszerza ono te sytuacje miêdzy innymi o dni, w których 
+odbywaj¹ siê mecze lub inne wydarzenia na stadionie Wis³y Kraków. Nale¿y jednak pamiêtaæ, ¿e 
+teren przed DS-Kapitol i Klubem Studio mo¿e byæ patrolowany przez policjê codziennie.
+(Porozumienie w sprawie wspó³dzia³ania w zakresie zapewnienia porz¹dku i bezpieczeñstwa na 
+terenie Akademii Górniczo-Hutniczej im. Stanis³awa Staszica w Krakowie §1.)
+ 18. Czy jest okreœlona liczba godzin zajêæ na tydzieñ? 
+Tak, nie mo¿e ona przekroczyæ 30 godzin zajêæ/tydzieñ. Nie uwzglêdnia siê tu jednak zajêæ 
+terenowych i praktyk. 
+(§7 ust. 6. Reg. studiów AGH.)
+ 19. Co to jest semestr kontrolny? 
+To ustalony przez Radê Wydzia³u semestr(y) w ci¹gu ca³ych studiów, podczas którego nale¿y 
+wykazaæ siê zaliczonymi wszystkimi przedmiotami obowi¹zkowymi(nie mo¿na posiadaæ deficytu 
+punktów ECTS). Je¿eli taki semestr kontrolny przypada na IV semestr studiów i student do tego czasu 
+nie zaliczy zaleg³ego przedmiotu, dziekan nie udziela wpisu na kolejny semestr (kieruje na urlop 
+dziekañski lub powtarzanie semestru).
+(§7 ust. 8 pkt. 4, ust 11. Reg studiów AGH.)
+ 20. Kiedy pojawia siê plan zajêæ? 
+Plan zajêæ ma obowi¹zek pojawiæ siê dwa tygodnie przed rozpoczêciem zajêæ w danym semestrze. 
+($7 ust.15 Regulaminu Studiów AGH)
+ 21. Co to s¹ studia indywidualne i kto mo¿e w nich uczestniczyæ? 
+Studia indywidualne (SI) przeznaczone s¹ dla studentów szczególnie uzdolnionym. Uczelnia zapewnia 
+odpowiedni rozwój naukowy studenta dziêki indywidualnemu dopasowaniu przedmiotów, metod i 
+form kszta³cenia. Takiemu studentowi przys³uguje prawo do indywidualnego planu zajêæ i programu 
+studiów. Studentowi przys³uguje opiekun. Zmiany w planie nie mog¹ dotyczyæ przedmiotów 
+obowi¹zkowych na danym kierunku. O SI student ubiega siê sam, sk³adaj¹c odpowiedni wniosek u 
+dziekana wydzia³u. 
+($9 ust.1-3 Regulaminu Studiów AGH)
+ 22. Co to jest indywidualny tok studiów i komu on przys³uguje? 
+Indywidualny tok nauczania przys³uguje studentom niepe³nosprawnym, bêd¹cym w trudnej 
+sytuacji ¿yciowej, studiuj¹cym dwa i wiêcej kierunków oraz studentom wybranym do kolegialnych 
+organów Uczelni. Student mo¿e odbywaæ zajêcia wg indywidualnego planu zajêæ w innych grupach 
+zajêciowych i/lub godzinach zajêæ. Plan jest dostosowany do mo¿liwoœci czasowych studenta. ITS nie 
+zwalnia ich z uczêszczania na zajêcia obowi¹zkowe. Student ubiegaj¹cy siê o ITS sk³ada podanie do 
+dziekana wydzia³u. Nadzór nad studentem sprawuje dziekan wydzia³u. 
+($9 ust. 4-5 Regulaminu Studiów AGH)
+ 23. Od roku akademickiego 2013/2014 nie ma indeksu. Gdzie zatem bêd¹ wpisywane oceny? 
+Dla studentów, którzy rozpoczêli studia w roku 2012/2013 lub wczeœnie nie ma ¿adnych 
+zmian – oceny wpisywane s¹ do indeksów oraz do systemu Wirtualny Dziekanat. Dla 
+studentów, którzy rozpoczynaj¹ studia w roku 2013/2014 oceny wpisywane s¹ jedynie do 
+systemu Wirtualny Dziekanat.
+($10 ust.5 Regulaminu Studiów AGH)
+ 24. Gdzie wyk³adowca ma obowi¹zek wpisaæ mi ocenê z zaliczonych zajêæ? 
+Wyk³adowca ma obowi¹zek wpisaæ uzyskan¹ ocenê koñcow¹ do indeksu (dla starszych roczników, 
+które posiadaj¹ indeks), do Wirtualnego Dziekanatu oraz do protoko³u zaliczenia przedmiotu. 
+($10 ust.5 oraz $15 ust.1 Regulaminu Studiów AGH)
+ 25. Czy wyk³ad jest obowi¹zkowy? 
+Nie, zgodnie z regulaminem studiów obecnoœæ na wyk³adzie jest dobrowolna (zaleca siê j¹ jednak). 
+Je¿eli wyk³ad jest jedyn¹ form¹ prowadzenia przedmiotu i wystawienia oceny koñcowej, wyk³adowca 
+na pierwszych zajêciach powinien powiadomiæ studentów o obowi¹zkowej obecnoœci na nim. W 
+innym przypadku prowadz¹cy nie mo¿e wyci¹gaæ konsekwencji wobec studentów nieobecnych na 
+wyk³adzie, jednak mo¿e stosowaæ ró¿ne formy gratyfikacji dla osób na wyk³ady uczêszczaj¹cych 
+(dopuszczenie do egzaminu w terminie „zerowego”, plusy do oceny koñcowej itd.).
+($11 ust.3 Regulaminu Studiów AGH)
+ 26. Czy mogê nagrywaæ wyk³ady dyktafonem lub robiæ zdjêcia slajdom? 
+Tak, o ile prowadz¹cy wyrazi na to zgodê. Takie materia³y mog¹ byæ wykorzystane tylko do 
+osobistego u¿ytku, zabronione jest ich rozprzestrzenianie. Nale¿y jednak wczeœniej zapytaæ o zgodê 
+wyk³adowcê i liczyæ siê z tym, ¿e jednak tradycyjna forma notowania bêdzie jego ulubion¹. 
+($11 ust.7 Regulaminu Studiów AGH)
+ 27. Na ilu zajêciach audytoryjnych mogê mieæ nieobecnoœæ? 
+Zajêcia s¹ obowi¹zkowe. Prowadz¹cy na pierwszych zajêciach w danym semestrze 
+okreœla sposób nadrabiania zaleg³oœci, w tym iloœæ dopuszczalnych nieobecnoœci. 
+Informacja taka znajduje siê równie¿ w sylabusie przedmiotu.
+(sylabusy przedmiotowe; $10 ust.10 Regulaminu Studiów AGH)
+ 28. Czy zajêcia laboratoryjne mo¿na odrobiæ? 
+Prowadz¹cy na pierwszych zajêciach w danym semestrze okreœla sposób nadrabiania 
+zaleg³oœci i nieobecnoœci. Informacja taka znajduje siê równie¿ w sylabusie przedmiotu.
+(sylabusy przedmiotowe; $10 ust.10 Regulaminu Studiów AGH)
+ 29. Czy zajêcia terenowe mo¿na odrobiæ w innym terminie? 
+Prowadz¹cy na pierwszych zajêciach w danym semestrze okreœla sposób nadrabiania 
+zaleg³oœci i nieobecnoœci. Informacja taka znajduje siê równie¿ w sylabusie przedmiotu.
+($10 ust.10 Regulaminu Studiów AGH)
+ 30. Czy wyk³adowca ma obowi¹zek okreœliæ zasady zaliczenia przedmiotu? 
+Tak, wyk³adowca ma obowi¹zek przedstawiæ zasady zaliczenia przedmiotu na pierwszych zajêciach. 
+Dodatkowo taka informacja znajduje siê w sylabusie przedmiotu. 
+($15 ust.1 Regulaminu Studiów AGH)
+ 31. Od ilu procent mogê uznaæ egzamin za zaliczony? 
+Zgodnie z Regulaminem studiów AGH egzamin zaliczony pozytywnie (na 3.0) to praca, która zosta³a 
+wykonana/napisania przynajmniej w 51 % poprawnie. 
+($13 Regulaminu Studiów AGH)
+ 32. Jak obliczana jest ocena koñcowa danego przedmiotu? 
+Zasady obliczania oceny koñcowej przedstawia prowadz¹cy na pierwszych zajêciach w 
+danym semestrze. Informacja taka znajduje siê równie¿ w sylabusie przedmiotu
+($15 Regulaminu Studiów AGH)
+ 33. Czy mogê zobaczyæ mój egzamin lub kolokwium po jego zaliczeniu b¹dŸ niezaliczeniu? 
+Tak, studentowi przys³uguje takie prawo. Termin, kiedy mo¿na ogl¹daæ swoje prace ustala 
+prowadz¹cy zajêcia. 
+($15 Regulaminu Studiów AGH)
+ 34. Uwa¿am, ¿e moja ocena za kolokwium jest zani¿ona/nieadekwatna. Czy mogê siê od niej odwo³aæ? 
+Tak, studentowi przys³uguje takie prawo. Na odwo³anie siê do dziekana ma 7 dni od daty 
+wystawienia zaliczenia. Zalecana jest jednak wczeœniejsza rozmowa z wyk³adowc¹ podczas konsultacji 
+na temat pracy. 
+($15 Regulaminu Studiów AGH)
+ 35. Nie pojawi³em siê na egzaminie i nie mam usprawiedliwia. Czy termin mi przepada? 
+Tak, nieusprawiedliwiona obecnoœæ na egzaminie oznacza utratê terminu. Dlatego, nawet w 
+przypadku w¹tpliwego poziomu wiedzy warto pojawiæ siê na egzaminie – oswojenie siê z pytaniami 
+okazuje siê z regu³y pomocne na kolejnym terminie. Nieobecnoœci na egzaminie z powodu braku 
+zaliczenia z innej formy zajêæ równie¿ powoduje, ¿e termin przepada.
+($16 Regulaminu Studiów AGH)
+ 36. Co to jest „termin/egzamin zerowy”? 
+To egzamin organizowany jeszcze przed sesj¹ dla osób, które zaliczy³y æwiczenia z danego 
+przedmiotu. Jego organizacja zale¿y jednak od dobrej woli wyk³adowcy. Zasady „egzaminu zerowego” 
+nale¿y dok³adnie ustaliæ z prowadz¹cym zajêcia. 
+($16 ust. 6 Regulaminu Studiów AGH)
+ 37. Czy pierwszy termin egzaminu mo¿e odbyæ siê jeszcze przed sesj¹? 
+Jeœli zarówno prowadz¹cy, jak i studenci wyra¿aj¹ tak¹ chêæ – nie ma do tego 
+przeciwwskazañ. Dobrze jednak jest, aby przynajmniej jeden termin egzaminu odbywa³ 
+siê w czasie sesji.
+ 38. Nie zaliczy³em æwiczeñ. Przepad³y mi wszystkie terminy egzaminów. Co teraz? 
+Przykro nam, ale czeka ciê wpis z deficytem punktów (tzn. warunek) i zaliczanie przedmiotu w 
+nastêpnym mo¿liwym terminie (najczêœciej na kolejnym roku). Jeœli w podobnej sytuacji znajduje siê 
+wiêcej studentów, mo¿liwe jest utworzenie tzw. grupy poœcigowej.
+($18 Regulaminu Studiów AGH)
+ 39. Nie zaliczy³em trzech terminów egzaminu. Co teraz? 
+Przykro nam, ale czeka ciê wpis z deficytem punktów (tzn. warunek) i zaliczanie przedmiotu 
+w nastêpnym mo¿liwym terminie (najczêœciej na kolejnym roku). Jeœli w podobnej sytuacji 
+znajduje siê wiêcej studentów, mo¿liwe jest utworzenie tzw. grupy poœcigowej.
+(Paragraf 18 Regulaminu Studiów AGH)
+ 40. Ile kosztuje warunek? 
+Kwota za godzinê powtarzanych zajêæ na ka¿dym wydziale jest inna (od 5 do 18 z³). Okreœla j¹ 
+zarz¹dzenie Rektora. Nale¿y tê kwotê przemno¿yæ przez ca³kowit¹ liczbê godzin (wyk³ad, æwiczenia, 
+laboratoria, zajêcia terenowe itd.). Uzyskan¹ kwotê nale¿y wp³aciæ na konto wydzia³u (nr konta szukaj 
+na stronie internetowej wydzia³u lub na tablicy og³oszeñ obok dziekanatu). Student, który znajduje 
+siê w trudnej sytuacji materialnej mo¿e zwróciæ siê do dziekana z proœb¹ o umorzenie czêœci op³aty, 
+lub roz³o¿enie jej na raty.
+(Za³¹cznik nr 3 do Zarz¹dzenia Rektora AGH Nr 28/2013 z dnia 03 czerwca 2013 r.)
+ 41. Nie staæ mnie by zap³aciæ za warunek.  
+Niestety, wiêkszoœæ studentów nie ma mo¿liwoœci w jakikolwiek sposób odrobiæ op³aty za wpis z 
+deficytem punktów. Jednak student, który znajduje siê w trudnej sytuacji materialnej mo¿e zwróciæ 
+siê do dziekana z proœb¹ o umorzenie czêœci op³aty, lub roz³o¿enie jej na raty.
+(Paragraf 9 oraz 12 Uchwa³y 94/2012 Senatu AGH z dnia 30 maja 2012r.)
+ 42. Ile razy mogê ubiegaæ siê o warunek w ci¹gu studiów? 
+Nie ma limitu J Trzeba jednak pamiêtaæ, ¿e nie mo¿na przekroczyæ dopuszczalnego 
+limitu punktów ECTS, oraz ¿e za ka¿de powtarzanie przedmiotu trzeba zap³aciæ.
+ 43. Co to jest grupa poœcigowa? 
+W przypadku, gdy wiele osób nie zaliczy³o danej formy zajêæ, Dziekan w porozumieniu 
+z prowadz¹cym przedmiot mo¿e podj¹æ decyzjê o utworzeniu dodatkowej grupy 
+zajêciowej, która bêdzie nadrabia³a zaleg³oœci w terminie wczeœniejszym ni¿ przewidziany 
+w programie studiów na kolejny rok akademicki (na przyk³ad w wakacje, lub we 
+wczeœniejszym semestrze).
+(Paragraf 18 Regulaminu Studiów AGH)
+ 44. Mam warunek. Zaliczy³em æwiczenia, zosta³ mi tylko egzamin. Czy muszê w nich ponownie uczestniczyæ?  
+Prowadz¹cy æwiczenia mo¿e (ale nie musi) ciê z nich zwolniæ i przepisaæ ocenê. Za ka¿dym razem 
+trzeba ustaliæ tê kwestiê z prowadz¹cym. W tym przypadku zalecamy jednak chodzenie na wyk³ady i 
+robienie notatek. 
+(Paragraf 18 Regulaminu Studiów AGH)
+ 45. Ile razy mogê powtarzaæ ca³y semestr?  
+Na ka¿dym stopniu studiów prawo do powtarzania semestru przys³uguje tylko raz. Z zastrze¿eniem, 
+¿e pierwszego semestru studiów powtarzaæ nie mo¿na. 
+(Paragraf 19 Regulaminu Studiów AGH)
+ 46. Ile jest rodzajów urlopów studenckich? 
+Wyró¿niamy 5 rodzajów urlopów udzielanych na okres maksymalnie 1 roku przez dziekana. Urlop 
+zdrowotny, wychowawczy (w przypadku koniecznoœci opieki na dzieckiem), okolicznoœciowy (w 
+przypadku wydarzeñ losowych), zawodowy (gdy np. odbywasz praktykê za granic¹) oraz bez podania 
+przyczyny (do wykorzystania raz w czasie studiów).
+(Paragraf 20 Regulaminu Studiów AGH)
+ 47. Nie zd¹¿y³em napisaæ pracy dyplomowej. To znaczy, ¿e siê ju¿ nie obroniê? 
+Na szczêœcie nie! Jeœli masz zaliczone wszystkie semestry mo¿esz za zgod¹ dziekana wróciæ na studia 
+by z³o¿yæ pracê dyplomow¹ i podejœæ do egzaminu dyplomowego. Prawo to jest jednorazowe i 
+przys³uguje studentom w okresie do 1 roku od daty skreœlenia z listy studentów. 
+(Paragraf 21, punkt 16 Regulaminu Studiów AGH)
+ 48. Kto mo¿e byæ moim promotorem? 
+W przypadku pracy licencjackiej/in¿ynierskiej twoim promotorem mo¿e byæ pracownik uczelni 
+z tytu³em profesora, doktora habilitowanego lub doktora. Natomiast w przypadku pisania pracy 
+magisterskiej promotorem mo¿e byæ osoba z tytu³em profesora lub doktora habilitowanego. Na 
+niektórych wydzia³ach zasady te zmienione s¹ decyzj¹ Rady Wydzia³u i promotorem mo¿e byæ ka¿da 
+osoba z tytu³em wy¿szym, ni¿ ten, o który siê staramy.
+(Paragraf 24 Regulaminu Studiów AGH)
+ 49. Mój promotor siê powa¿nie siê rozchorowa³. Co robiæ? 
+Fakt ten, jeœli wp³ywa on na termin obrony pracy dyplomowej nale¿y zg³osiæ jak najszybciej 
+dziekanowi wydzia³u. Przydzieli ci on now¹ osob¹, która bêdzie odpowiedzialna byœ dokoñczy³ i z³o¿y³ 
+swoj¹ pracê. 
+(Paragraf 24 Regulaminu Studiów AGH)
+ 50. Co muszê zrobiæ aby przyst¹piæ do obrony? 
+Aby przyst¹piæ do obrony pracy in¿ynierskiej (licencjackiej) nale¿y:
+• Uzyskaæ absolutorium (zaliczyæ wszystkie przedmioty z ca³ego stopnia 
+studiów)
+• Zarejestrowaæ pracê in¿yniersk¹ (licencjack¹)
+• Dope³niæ wszelkich formalnoœci w dziekanacie (zdjêcia, op³ata za dyplom, 
+karta odejœcia, itd)
+Aby przyst¹piæ do obrony pracy magisterskiej nale¿y uzyskaæ absolutorium (zaliczyæ 
+wszystkie przedmioty z ca³ego stopnia studiów) oraz zarejestrowaæ pracê magistersk¹.
+(Paragraf 25 Regulaminu Studiów AGH)
+ 51. Gdzie i kiedy mogê przed³u¿yæ wa¿noœæ mojej legitymacji studenckiej? 
+Wa¿noœæ legitymacji przed³u¿amy w Centrum Kart Elektronicznych AGH w paw. C-1, pok. 
+322B (III piêtro, klatka przy wejœciu do C-1). Centrum czynne jest codziennie, na pocz¹tku 
+semestru równie¿ w weekendy oraz w godzinach popo³udniowych.

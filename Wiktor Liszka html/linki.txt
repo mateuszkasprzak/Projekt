@@ -1,0 +1,5 @@
+helpdesk:
+http://help.eaiib.agh.edu.pl/
+
+faq:
+http://www.samorzad.agh.edu.pl/Wazne-Informacje/FAQ

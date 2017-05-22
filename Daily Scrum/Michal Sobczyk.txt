@@ -25,16 +25,16 @@
 		Dziœ: Kontynuacja PHP i naprawy kompilatora.
 		Problemy: Nie dzia³a³ mi kompilator Notepad++, problemy z jego naprawieniem. Kontynuujê naprawianie dzisiejszego dnia. Je¿eli siê nie uda, wybieram nowy kompilator.
 
-17/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+17/05 Œr:	Wczoraj: Naprawiony kompilator. Nauka PHP.
+		Dziœ: Tworzenie pocz¹tkowej strony.
+		Problemy: Brak internetu, commit zrobiê w poniedzia³ek
 
-18/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+18/05 Czw:	Wczoraj: Tworzenie g³ównej strony.
+		Dziœ: Zrobienie linków do podstron.
+		Problemy: -
 
-19/05 Pt:	Wczoraj:
-		Dziœ:
+19/05 Pt:	Wczoraj: Stworzenie linków do podstron.
+		Dziœ: Ostatnie poprawki i minimalizacja kodu
 		Problemy:
 
 @Tydzieñ 3

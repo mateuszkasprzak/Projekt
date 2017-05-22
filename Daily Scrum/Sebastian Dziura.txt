@@ -34,9 +34,9 @@
 		Problemy:  Brak mo¿liwoœci testu przez brak serwera i domeny.
 		
 
-19/05 Pt:	Wczoraj:
-		Dziœ:
-		Problemy:
+19/05 Pt (22/05):	Wczoraj:
+		Dziœ:      Próba znalezienia b³êdów w kodzie
+		Problemy:  dziwne wyniki po w³¹czeniu kodu, nie wiem czemu 
 
 @Tydzieñ 3
 22/05 Pon:	Wczoraj:

@@ -29,9 +29,9 @@
 		Dziœ: Dokoñczenie nauki PHP.
 		Problemy:-
 
-18/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+18/05 Czw:	Wczoraj:Nauka podstaw PHP
+		Dziœ: Tworzenie formularza logowania w PHP
+		Problemy:-
 
 19/05 Pt:	Wczoraj:
 		Dziœ:

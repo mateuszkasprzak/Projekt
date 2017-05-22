@@ -25,17 +25,17 @@
 		Dziœ: Przenoszenie planów na papier.
 		Problemy: Brak zdnonoœci manualnych.
 
-17/05 Œr:	Wczoraj:
-		Dziœ: 
-		Problemy:
+17/05 Œr:	Wczoraj:Wed³ug planu 
+		Dziœ:tworzenie grafiki strony 
+		Problemy:-
 
-18/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+18/05 Czw:	Wczoraj:wed³ug planu 
+		Dziœ:stworzenie grafiki storny
+		Problemy:-
 
-19/05 Pt:	Wczoraj:
-		Dziœ:
-		Problemy:
+19/05 Pt:	Wczoraj:wed³ug planu 
+		Dziœ:stworzenie grafiki strony
+		Problemy:-
 
 @Tydzieñ 3
 22/05 Pon:	Wczoraj:

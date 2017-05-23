@@ -38,9 +38,9 @@
 		Problemy:
 
 @Tydzieñ 3
-22/05 Pon:	Wczoraj:
-		Dziœ:
-		Problemy:
+22/05 Pon:	Wczoraj: Zgodnie z planem
+		Dziœ: Podstawowe informacje na temat MySQL i bazy danych
+		Problemy: -
 
 23/05 Wt:	Wczoraj:
 		Dziœ:

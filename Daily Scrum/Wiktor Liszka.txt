@@ -42,8 +42,8 @@
 		Dziœ: Utworzenie tabeli mySQL, zaczac ja wypelniac
 		Problemy:
 
-23/05 Wt:	Wczoraj:
-		Dziœ:
+23/05 Wt:	Wczoraj: zgodnie z planem, nowa tablica (primary key: id)
+		Dziœ: dodac jeszcze jedna kolumne ("siedziba") i kontynuowac uzupelnianie danych prowadzacych
 		Problemy:
 
 24/05 Œr:	Wczoraj:

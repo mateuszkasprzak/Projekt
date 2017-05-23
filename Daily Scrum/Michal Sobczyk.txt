@@ -42,9 +42,9 @@
 		Dziœ: Podstawowe informacje na temat MySQL i bazy danych
 		Problemy: -
 
-23/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+23/05 Wt:	Wczoraj: Zgodnie z planem
+		Dziœ: Przygotowanie do stworzenia wyszukiwarki
+		Problemy: -
 
 24/05 Œr:	Wczoraj:
 		Dziœ:

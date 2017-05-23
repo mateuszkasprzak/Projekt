@@ -44,7 +44,7 @@
 		Problemy:Nie mam pojêcia jak siê tego u¿ywa
 
 23/05 Wt:	Wczoraj:
-		Dziœ:
+		Dziœ:      Wpisywanie danych prowadz¹cyh do bazy danych
 		Problemy:
 
 24/05 Œr:	Wczoraj:

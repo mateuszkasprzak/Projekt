@@ -17,13 +17,14 @@ body
 {
 	width: 960px;
 	margin: 20px;
-	text-align: center;
+	text-align; center;
 }
 
 .square
 {
 	width: 50%;
 	float: left;
+	
 }
 
 #logo
@@ -48,14 +49,14 @@ body
 	margin: 10px;
 	width: 230px;
 	height: 142px;
-	background-color: #008000;
+	background-color: #00693C;
 	float: left;
 	text-align: center;
 }
 
 .tile1:hover
 {
-	background-color: #2084c2;
+	background-color: #00593C;
 }
 
 .tile2
@@ -63,14 +64,14 @@ body
 	margin: 10px;
 	width: 230px;
 	height: 142px;
-	background-color: #000000;
+	background-color: #1E1E1E;
 	float: left;
 	text-align: center;
 }
 
 .tile2:hover
 {
-	background-color: #555555;
+	background-color: #0f0f0f;
 }
 
 
@@ -78,13 +79,13 @@ body
 .tile3
 {
 	margin: 10px;
-	width: 420px;
-	height: 82px;
-	background-color: #FF0000;
-	text-align: center;
-	font-size: 26px;
-	padding: 30px;
-	line-height: 150%;
+	width: 480px;
+	height: 142px;
+	background-color: #A71930;
+}
+.tile3:hover
+{
+	background-color: #89061c;
 }
 
 #tile4
@@ -93,7 +94,7 @@ body
 	width: 420px;
 	height: 244px;
 	background-color: #666666;
-	text-align: justify;
+	text-align:;
 	padding: 30px;
 }
 .wiki
@@ -101,13 +102,13 @@ body
 	margin: 10px;
 	width: 105px;
 	height: 142px;
-	background-color: #000000;
+	background-color: #1E1E1E;
 	float: left;
 }
 
 .wiki:hover
 {
-	background-color: #c83237;
+	background-color: #0f0f0f;
 }
 
 .yt

@@ -38,13 +38,13 @@
 		Problemy:
 
 @Tydzieñ 3
-22/05 Pon:	Wczoraj:Zgodnie z planem.	
+22/05 Pon:	Wczoraj: Zgodnie z planem.	
 		Dziœ: Zdobycie podstawowych informacji na temat MySQL i baz danych.
 		Problemy:-
 
-23/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+23/05 Wt:	Wczoraj: Zgodnie z planem.
+		Dziœ: Przygotowanie do stworzenia wyszukiwarki w bazie danych.
+		Problemy:-
 
 24/05 Œr:	Wczoraj:
 		Dziœ:

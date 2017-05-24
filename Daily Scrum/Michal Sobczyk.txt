@@ -46,9 +46,9 @@
 		Dziœ: Przygotowanie do stworzenia wyszukiwarki
 		Problemy: -
 
-24/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+24/05 Œr:	Wczoraj: Zgodnie z planem
+		Dziœ: Stworzenie kodu z wyszukiwark¹
+		Problemy: -
 
 25/05 Czw:	Wczoraj:
 		Dziœ:

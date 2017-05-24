@@ -48,8 +48,8 @@
 		Problemy:
 
 24/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:       Kontynuacja wpisywania danych prowadz¹cych do tabeli 
+		Problemy:   
 
 25/05 Czw:	Wczoraj:
 		Dziœ:

@@ -46,8 +46,8 @@
 		Dziœ: dodac jeszcze jedna kolumne ("siedziba") i kontynuowac uzupelnianie danych prowadzacych
 		Problemy:
 
-24/05 Œr:	Wczoraj:
-		Dziœ:
+24/05 Œr:	Wczoraj: zgodnie z planem
+		Dziœ: kontynuacja uzupelniania bazy danych.
 		Problemy:
 
 25/05 Czw:	Wczoraj:

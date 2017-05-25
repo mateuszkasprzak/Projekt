@@ -20,7 +20,7 @@
         $metoda = addslashes($metoda);
         $wyrazenie = addslashes($wyrazenie);
       }
-      @ $db = new mysqli('www.mysql.agh.edu.pl','wliszka','FYc3MmSSefkv7CXy','wliszka');
+      $db = new mysqli('localhost','root','','prowadzacy');
       
       if (mysqli_connect_errno())
       {

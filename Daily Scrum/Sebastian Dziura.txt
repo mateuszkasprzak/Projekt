@@ -52,7 +52,7 @@
 		Problemy:   
 
 25/05 Czw:	Wczoraj:
-		Dziœ:
+		Dziœ:       Szukanie prowadz¹cych, którzy jeszcze nie s¹ wpisani 
 		Problemy:
 
 26/05 Pt:	Wczoraj:

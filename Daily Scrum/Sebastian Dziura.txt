@@ -34,25 +34,25 @@
 		Problemy:  Brak mo¿liwoœci testu przez brak serwera i domeny.
 		
 
-19/05 Pt:	Wczoraj:
-		Dziœ:
-		Problemy:
+19/05 Pt (22/05):	Wczoraj:
+		Dziœ:      Próba znalezienia b³êdów w kodzie
+		Problemy:  dziwne wyniki po w³¹czeniu kodu, nie wiem czemu 
 
 @Tydzieñ 3
 22/05 Pon:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:   Pobraæ phpmyadmin
+		Problemy:Nie mam pojêcia jak siê tego u¿ywa
 
 23/05 Wt:	Wczoraj:
-		Dziœ:
+		Dziœ:      Wpisywanie danych prowadz¹cyh do bazy danych
 		Problemy:
 
 24/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+		Dziœ:       Kontynuacja wpisywania danych prowadz¹cych do tabeli 
+		Problemy:   
 
 25/05 Czw:	Wczoraj:
-		Dziœ:
+		Dziœ:       Szukanie prowadz¹cych, którzy jeszcze nie s¹ wpisani 
 		Problemy:
 
 26/05 Pt:	Wczoraj:

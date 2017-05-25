@@ -25,30 +25,30 @@
 		Dziœ: Kontynuacja nauki PHP i postawienie serwera. 
 		Problemy: Problemy z internetem, które uniemo¿liwi³y dalsz¹ naukê.
 
-17/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+17/05 Œr:	Wczoraj: Problemy z internetem.
+		Dziœ: Dokoñczenie nauki PHP.
+		Problemy:-
 
-18/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+18/05 Czw:	Wczoraj:Nauka podstaw PHP
+		Dziœ: Tworzenie formularza logowania w PHP
+		Problemy:-
 
 19/05 Pt:	Wczoraj:
 		Dziœ:
 		Problemy:
 
 @Tydzieñ 3
-22/05 Pon:	Wczoraj:
-		Dziœ:
-		Problemy:
+22/05 Pon:	Wczoraj: Zgodnie z planem.	
+		Dziœ: Zdobycie podstawowych informacji na temat MySQL i baz danych.
+		Problemy:-
 
-23/05 Wt:	Wczoraj:
-		Dziœ:
-		Problemy:
+23/05 Wt:	Wczoraj: Zgodnie z planem.
+		Dziœ: Przygotowanie do stworzenia wyszukiwarki w bazie danych.
+		Problemy:-
 
-24/05 Œr:	Wczoraj:
-		Dziœ:
-		Problemy:
+24/05 Œr:	Wczoraj:Zgodnie z planem.
+		Dziœ: Stworzenie kodu z podstawow¹ wyszukiwark¹.
+		Problemy: -
 
 25/05 Czw:	Wczoraj:
 		Dziœ:

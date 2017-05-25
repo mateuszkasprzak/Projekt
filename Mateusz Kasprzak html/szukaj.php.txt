@@ -1,0 +1,22 @@
+﻿<!doctype html>
+<html>
+  <head>
+    <title>Wyszukiwanie książek w bazie ksiegarnia_internetowa</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h1>Wyszukiwanie książek w bazie ksiegarnia_internetowa</h1>
+    <form action="wyniki.php" method="post">
+      Wyszukaj według:
+      <select name="metoda">
+       <option value="autor" />Autora
+       <option value="tytul" />Tytułu
+       <option value="isbn" />ISBN
+      </select>
+      <br /><br />
+      Szukane wyrażenie:
+      <input type="text" name="wyrazenie" />
+      <input type="submit" name="wyszukaj" />
+    </form>
+  </body>
+</html>

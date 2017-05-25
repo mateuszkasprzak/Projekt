@@ -42,16 +42,16 @@
 		Dziœ: Utworzenie tabeli mySQL, zaczac ja wypelniac
 		Problemy:
 
-23/05 Wt:	Wczoraj:
-		Dziœ:
+23/05 Wt:	Wczoraj: zgodnie z planem, nowa tablica (primary key: id)
+		Dziœ: dodac jeszcze jedna kolumne ("siedziba") i kontynuowac uzupelnianie danych prowadzacych
 		Problemy:
 
-24/05 Œr:	Wczoraj:
-		Dziœ:
+24/05 Œr:	Wczoraj: zgodnie z planem
+		Dziœ: kontynuacja uzupelniania bazy danych.
 		Problemy:
 
-25/05 Czw:	Wczoraj:
-		Dziœ:
+25/05 Czw:	Wczoraj:zgodnie z planem
+		Dziœ: uzupelnienie niekompletnych danych, dodanie kolejnych prowadzacych, ujednolicenie informacji w kolumnach (jendnakowy sposob zapisu siedziby)
 		Problemy:
 
 26/05 Pt:	Wczoraj:

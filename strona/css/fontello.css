@@ -55,10 +55,10 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-table:before { content: '\f0ce'; font-size: 76px; margin-top: 35px; text-align: center; margin-right: 70px} /* '' */
+.icon-table:before { content: '\f0ce'; font-size: 76px; margin-top: 35px} /* '' */
 .icon-gplus-squared:before { content: '\f0d4'; font-size: 76px; margin-top: 35px;} /* '' */
 .icon-youtube-squared:before { content: '\f166'; font-size: 76px; margin-top: 35px;} /* '' */
 .icon-youtube-play:before { content: '\f16a'; font-size: 76px; margin-top: 35px;} /* '' */
 .icon-newspaper:before { content: '\f1ea'; font-size: 76px; margin-top: 35px;} /* '' */
-.icon-wikipedia-w:before { content: '\f266'; font-size: 65px;text-align: center; margin-top: 35px;} /* '' */
+.icon-wikipedia-w:before { content: '\f266'; font-size: 70px; margin-top: 35px;} /* '' */
 .icon-facebook-squared:before { content: '\f308'; font-size: 76px; margin-top: 35px;} /* '' */

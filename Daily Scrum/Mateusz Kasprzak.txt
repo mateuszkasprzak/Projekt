@@ -50,9 +50,9 @@
 		Dziœ: Stworzenie kodu z podstawow¹ wyszukiwark¹.
 		Problemy: -
 
-25/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+25/05 Czw:	Wczoraj:Stworzenie kodu z podstawow¹ wyszukiwark¹.
+		Dziœ: Po³¹czenie wyszukiwarki z baz¹ danych.
+		Problemy: Problem z po³¹czeniem wyszukiwarki z baz¹ danych.
 
 26/05 Pt:	Wczoraj:
 		Dziœ:

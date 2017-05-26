@@ -51,11 +51,11 @@
 		Problemy:
 
 25/05 Czw:	Wczoraj:zgodnie z planem
-		Dziœ: uzupelnienie niekompletnych danych, dodanie kolejnych prowadzacych, ujednolicenie informacji w kolumnach (jendnakowy sposob zapisu siedziby)
+		Dziœ: uzupelnienie niekompletnych danych, dodanie kolejnych prowadzacych, ujednolicenie informacji w kolumnach (jednakowy sposob zapisu siedziby)
 		Problemy:
 
-26/05 Pt:	Wczoraj:
-		Dziœ:
+26/05 Pt:	Wczoraj: zgodnie z planem
+		Dziœ: Wrzuciæ kalendarz na strone.
 		Problemy:
 
 

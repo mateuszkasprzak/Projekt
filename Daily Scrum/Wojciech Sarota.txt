@@ -42,20 +42,20 @@
 		Dziœ:
 		Problemy:
 
-23/05 Wt:	Wczoraj:
-		Dziœ:
+23/05 Wt:	Wczoraj:wed³ug planu 
+		Dziœ: nauka js, zegarek
 		Problemy:
 
-24/05 Œr:	Wczoraj:
-		Dziœ:
+24/05 Œr:	Wczoraj: wed³ug planu
+		Dziœ:nauka js, prównywanie liczb, slider zdjêæ 
+		Problemy:-
+
+25/05 Czw:	Wczoraj:wed³ug planu 
+		Dziœ: praca nad stron¹
 		Problemy:
 
-25/05 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
-
-26/05 Pt:	Wczoraj:
-		Dziœ:
+26/05 Pt:	Wczoraj:wed³ug planu
+		Dziœ: praca nad strona
 		Problemy:
 
 

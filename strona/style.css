@@ -99,7 +99,8 @@ body
 	width: 420px;
 	height: 244px;
 	background-color: #666666;
-	text-align:center ;
+	color: white;  
+	text-align: center ;
 	padding: 30px;
 }
 .insta
@@ -107,14 +108,14 @@ body
 	margin: 10px;
 	width: 105px;
 	height: 142px;
-	background-color: #8a3ab9;
+	background-color: #e95950;
 	text-align:center ;
 	float: left;
 }
 
 .insta:hover
 {
-	background-color: #7932a3;
+	background-color: #c4473e;
 }
 
 .yt
@@ -168,9 +169,23 @@ a.tilelink
 	display: block;
 	width: 230px;
 	height: 142px;
+
+}
+a.tile4
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 400px;
+	height: 250px;
+}
+a.tile4:hover 
+{
+	color: #cecb00;
 }
 
-a.tilelinkhtml5
+
+a.tilelinkhtml
 {
 	color: #ffffff;
 	text-decoration: none;

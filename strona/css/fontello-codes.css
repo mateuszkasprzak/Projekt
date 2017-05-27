@@ -1,8 +1,18 @@
 
+.icon-wikipedia:before { content: '\e800'; } /* '' */
+.icon-calendar:before { content: '\e801'; } /* '' */
+.icon-calendar-1:before { content: '\e802'; } /* '' */
+.icon-users:before { content: '\e803'; } /* '' */
+.icon-users-1:before { content: '\e804'; } /* '' */
+.icon-users-2:before { content: '\e805'; } /* '' */
+.icon-globe:before { content: '\e806'; } /* '' */
 .icon-table:before { content: '\f0ce'; } /* '' */
 .icon-gplus-squared:before { content: '\f0d4'; } /* '' */
 .icon-youtube-squared:before { content: '\f166'; } /* '' */
-.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-graduation-cap:before { content: '\f19d'; } /* '' */
+.icon-child:before { content: '\f1ae'; } /* '' */
 .icon-newspaper:before { content: '\f1ea'; } /* '' */
-.icon-wikipedia-w:before { content: '\f266'; } /* '' */
+.icon-snapchat-square:before { content: '\f2ad'; } /* '' */
 .icon-facebook-squared:before { content: '\f308'; } /* '' */
+.icon-instagram:before { content: '\f31e'; } /* '' */
+.icon-instagram-filled:before { content: '\f31f'; } /* '' */

@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Czas generowania: 25 Maj 2017, 17:14
+-- Czas generowania: 29 Maj 2017, 13:45
 -- Wersja serwera: 5.5.55-0+deb8u1
 -- Wersja PHP: 5.6.30-0+deb8u1
 
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `prowadzacy` (
   `mail` varchar(50) DEFAULT NULL,
   `strona` varchar(50) DEFAULT NULL,
   `Siedziba` varchar(50) CHARACTER SET utf8 COLLATE utf8_polish_ci NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=33 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=latin1;
 
 --
 -- Zrzut danych tabeli `prowadzacy`
@@ -67,8 +67,8 @@ INSERT INTO `prowadzacy` (`id`, `tytul`, `nazwisko`, `imie`, `mail`, `strona`, `
 (24, 'dr inż.', 'Świebocka-Więk', 'Joanna', 'jsw@agh.edu.pl', 'http://home.agh.edu.pl/~jsw', 'D-10, II p., 216'),
 (25, 'mgr', 'Opioła', 'Zawisza', 'zopiola@agh.edu.pl', NULL, 'U-12, I p., 105'),
 (26, 'mgr', 'Biel', 'Piotr', 'pbiel@agh.edu.pl', NULL, 'U-12, II p., 204'),
-(31, 'dr inż.', 'Skruch', 'Paweł', 'pawel.skruch@agh.edu.pl', NULL, 'B-1, III p., pok. 303'),
-(32, 'dr inż.', 'Długosz', 'Marek', 'mdlugosz@agh.edu.pl', NULL, 'B-1, III p., pok. 315b');
+(27, 'dr inż.', 'Skruch', 'Paweł', 'pawel.skruch@agh.edu.pl', NULL, 'B-1, III p., 303'),
+(28, 'dr inż.', 'Długosz', 'Marek', 'mdlugosz@agh.edu.pl', NULL, 'B-1, III p., 315b');
 
 --
 -- Indeksy dla zrzutów tabel
@@ -88,7 +88,7 @@ ALTER TABLE `prowadzacy`
 -- AUTO_INCREMENT dla tabeli `prowadzacy`
 --
 ALTER TABLE `prowadzacy`
-MODIFY `id` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=33;
+MODIFY `id` int(11) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=29;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

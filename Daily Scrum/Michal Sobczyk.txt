@@ -54,13 +54,13 @@
 		Dziœ: Próba poprawnego po³¹czenia bazy danych do wyszukiwarki.
 		Problemy: Problemy z po³¹czeniem z baz¹ danych.
 
-26/05 Pt:	Wczoraj:
-		Dziœ:
-		Problemy:
+26/05 Pt:	Wczoraj: Poprawne po³¹czenie z baz¹ danych
+		Dziœ: Implementacja wyszukiwarki na stronê
+		Problemy: Brak czasu, robione w weekend i poniedzia³ek
 
 
 @Tydzieñ 4
-29/05 Pon:	Wczoraj:
+29/05 Pon:	Wczoraj: 
 		Dziœ:
 		Problemy:
 

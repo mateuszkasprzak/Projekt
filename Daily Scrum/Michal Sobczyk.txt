@@ -60,9 +60,9 @@
 
 
 @Tydzieñ 4
-29/05 Pon:	Wczoraj: 
-		Dziœ:
-		Problemy:
+29/05 Pon:	Wczoraj: Implementacja wyszukiwarki
+		Dziœ: Nauka zrobienia wpisywania danych do wyszukiwarki
+		Problemy: Choroba, dzieñ trochê stracony, bêdê kontynuowa³ jutro
 
 30/05 Wt:	Wczoraj:
 		Dziœ:

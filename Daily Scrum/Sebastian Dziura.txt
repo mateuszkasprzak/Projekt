@@ -62,7 +62,7 @@
 
 @Tydzieñ 4
 29/05 Pon:	Wczoraj:
-		Dziœ:
+		Dziœ:      Poprawienie linku do "Prowadz¹cych", tak ¿eby wysiwtlali sie w tym samym oknie
 		Problemy:
 
 30/05 Wt:	Wczoraj:

@@ -28,6 +28,17 @@
 		</div>
 		<center>
 		Prowadzący
+	  <form action="wyniki.php" method="post">
+      Wyszukaj wedlug:
+      <select name="metoda">
+       <option value="nazwisko" />Nazwisko
+       <option value="imie" />Imie
+       <option value="tytul" />Tytul
+      </select>
+      <br /><br />
+      Szukany prowadzący:
+      <input type="text" name="wyrazenie" />
+      <input type="submit" name="wyszukaj" />
 		</center>
 		
 		<div class="rectangle">

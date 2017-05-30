@@ -64,8 +64,8 @@
 		Dziœ: omowienie planu na przyszly tydzien, stworzenie podstrony z faqiem
 		Problemy:
 
-30/05 Wt:	Wczoraj:
-		Dziœ:
+30/05 Wt:	Wczoraj: zgodnie z planem + udalo sie wpisac troche tekstu do faqa.
+		Dziœ: styling css faq
 		Problemy:
 
 31/05 Œr:	Wczoraj:

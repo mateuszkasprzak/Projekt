@@ -201,15 +201,16 @@ a.sociallink
 }
 
 article{
-	padding-left: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
 	border: 1px solid grey;
 	margin-bottom: 10px;
 }
 
 h2{
-	font: bold 20px Lato;
+	font: bold 16px Lato;
 }
 
 p{
-	font: 15px Lato;
+	font: 14px Lato;
 }

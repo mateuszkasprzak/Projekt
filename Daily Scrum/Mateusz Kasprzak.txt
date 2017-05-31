@@ -65,7 +65,7 @@
 		Problemy:
 
 30/05 Wt:	Wczoraj:
-		Dziœ:
+		Dziœ: Szukanie funkcji maj¹cej na celu wstawianie kolejnych elementów do bazy danych.
 		Problemy:
 
 31/05 Œr:	Wczoraj:

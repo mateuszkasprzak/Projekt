@@ -72,8 +72,8 @@
 		Dziœ: kontynuacja uzupelniania faq
 		Problemy:
 
-01/06 Czw:	Wczoraj:
-		Dziœ:
+01/06 Czw:	Wczoraj: dodatkowo mala poprawka w css.
+		Dziœ: kontynuacja wprowadzania faq i edycja sql prowadzacych
 		Problemy:
 
 02/06 Pt:	Wczoraj:

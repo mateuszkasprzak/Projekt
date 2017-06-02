@@ -77,7 +77,7 @@
 		Problemy:
 
 02/06 Pt:	Wczoraj:
-		Dziœ:
+		Dziœ: sprawozdanie i sql
 		Problemy:
 
 

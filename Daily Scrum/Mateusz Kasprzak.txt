@@ -72,9 +72,9 @@
 		Dziœ: Rozpoczêcie pracy nad sprawozdaniem.
 		Problemy:
 
-01/06 Czw:	Wczoraj:
-		Dziœ:
-		Problemy:
+01/06 Czw:	Wczoraj:Zgodnie z planem
+		Dziœ:Kontynuacja pracy nad sprawozdaniem.
+		Problemy:-
 
 02/06 Pt:	Wczoraj:
 		Dziœ:

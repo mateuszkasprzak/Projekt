@@ -55,19 +55,19 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-wikipedia:before { content: '\e800';  font-size: 76px; margin-top: 35px} /* '' */
+.icon-wikipedia:before { content: '\e800';  font-size: 76px; margin-top: 20px} /* '' */
 .icon-calendar:before { content: '\e801'; font-size: 76px; margin-top: 35px } /* '' */
 .icon-calendar-1:before { content: '\e802'; font-size: 76px; margin-top: 35px } /* '' */
-.icon-users:before { content: '\e803';  font-size: 76px; margin-top: 35px} /* '' */
-.icon-users-1:before { content: '\e804';  font-size: 76px; margin-top: 35px} /* '' */
-.icon-users-2:before { content: '\e805'; font-size: 76px; margin-top: 35px } /* '' */
-.icon-globe:before { content: '\e806'; font-size: 76px; margin-top: 35px } /* '' */
-.icon-table:before { content: '\f0ce'; font-size: 76px; margin-top: 35px } /* '' */
+.icon-users:before { content: '\e803';  font-size: 76px; margin-top: 20px} /* '' */
+.icon-users-1:before { content: '\e804';  font-size: 76px; margin-top: 20px} /* '' */
+.icon-users-2:before { content: '\e805'; font-size: 76px; margin-top: 20px } /* '' */
+.icon-globe:before { content: '\e806'; font-size: 76px; margin-top: 20px } /* '' */
+.icon-table:before { content: '\f0ce'; font-size: 76px; margin-top: 20px } /* '' */
 .icon-gplus-squared:before { content: '\f0d4';  font-size: 76px; margin-top: 35px} /* '' */
 .icon-youtube-squared:before { content: '\f166';  font-size: 76px; margin-top: 35px} /* '' */
-.icon-graduation-cap:before { content: '\f19d'; font-size: 76px; margin-top: 35px } /* '' */
-.icon-child:before { content: '\f1ae'; font-size: 76px; margin-top: 35px } /* '' */
-.icon-newspaper:before { content: '\f1ea'; font-size: 76px; margin-top: 35px } /* '' */
+.icon-graduation-cap:before { content: '\f19d'; font-size: 76px; margin-top: 20px; } /* '' */
+.icon-child:before { content: '\f1ae'; font-size: 76px; margin-top: 20px } /* '' */
+.icon-newspaper:before { content: '\f1ea'; font-size: 76px; margin-top: 20px } /* '' */
 .icon-snapchat-square:before { content: '\f2ad';  font-size: 76px; margin-top: 35px} /* '' */
 .icon-facebook-squared:before { content: '\f308';  font-size: 76px; margin-top: 35px} /* '' */
 .icon-instagram:before { content: '\f31e'; font-size: 76px; margin-top: 35px } /* '' */
